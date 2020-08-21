@@ -1,0 +1,22 @@
+{
+  "name": "clasesdesarrolloweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasCarmonaM/ClasesDesarrolloWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasCarmonaM/ClasesDesarrolloWeb/issues"
+  },
+  "homepage": "https://github.com/LucasCarmonaM/ClasesDesarrolloWeb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
